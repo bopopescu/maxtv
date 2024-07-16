@@ -4159,6 +4159,54 @@
 </item>
 
 <item>
+<title>VENEZUELA: Aguacate TV</title>
+<link>rtmp://streamtv.intervenhosting.net:2206/aguacatetvbqtohybrid/play swfUrl="" live=1 pageUrl=https://www.aguacatetv.com</link>
+<thumbnail>https://intervenhosting.net/imagenes/aguacatetv.jpg</thumbnail>
+</item>
+
+<item>
+<title>VENEZUELA: Guaro TV</title>
+<link>rtmp://streamtv.intervenhosting.net:2916/guarotvbqtohybrid/play swfUrl="" live=1 pageUrl=https://www.guarotv.net</link>
+<thumbnail>https://intervenhosting.net/imagenes/guarotv.jpg</thumbnail>
+</item>
+
+<item>
+<title>VENEZUELA: LGDTV</title>
+<link>rtmp://streamtv.intervenhosting.net:2240/iglesialhybrid/play swfUrl="" live=1 pageUrl=https://www.ministerioslgd.org</link>
+<thumbnail>https://intervenhosting.net/imagenes/lgdtv.jpg</thumbnail>
+</item>
+
+<item>
+<title>VENEZUELA: interTV</title>
+<link>rtmp://streamtv.intervenhosting.net:2271/intertvhybrid/play swfUrl="" live=1 pageUrl=https://www.interven.ca/tv</link>
+<thumbnail>https://intervenhosting.net/imagenes/intertv.jpg</thumbnail>
+</item>
+
+<item>
+<title>VENEZUELA: KandelaTV</title>
+<link>rtmp://streamtv.intervenhosting.net:2518/kandelamedioslive/kandelamedioslive swfUrl="" live=1 pageUrl=https://www.kandelamedios.com</link>
+<thumbnail>https://intervenhosting.net/imagenes/kandelatv.jpg</thumbnail>
+</item>
+
+<item>
+<title>VENEZUELA: Latina TV</title>
+<link>rtmp://streamtv.intervenhosting.net:2386/latinatvlive/latinatvlive swfUrl="" live=1 pageUrl=https://www.latinamedios.com</link>
+<thumbnail>https://intervenhosting.net/imagenes/latinatv.jpg</thumbnail>
+</item>
+
+<item>
+<title>VENEZUELA: Portuguesa televisión</title>
+<link>rtmp://streamtv.intervenhosting.net:2165/portutvlive/portutvlive swfUrl="" live=1 pageUrl=https://www.portutv.com</link>
+<thumbnail>https://intervenhosting.net/imagenes/portutv.jpg</thumbnail>
+</item>
+
+<item>
+<title>VENEZUELA: Telecentro</title>
+<link>rtmp://streamtv.intervenhosting.net:2046/telecentrolive/telecentrolive swfUrl="" live=1 pageUrl=https://www.telecentro.com.ve</link>
+<thumbnail>https://intervenhosting.net/imagenes/telecentro.jpg</thumbnail>
+</item>
+
+<item>
 <title>VENEZUELA: Promar TV</title>
 <link>rtmp://vpn58.hdtv.lorini.net/promartv playpath=promartv swfUrl=http://www.lorini.tv/flvplayer/FLVplayer_Custom.swf live=1 pageUrl=http://www.lorini.net/streaming/clientes/promar-tv.html</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/promar_tv.png</thumbnail>
